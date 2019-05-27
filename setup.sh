@@ -43,11 +43,11 @@ brew cask install slack
 
 
 #cloning dot files.
-git clone https://github.com/sumandeepak8/dotfiles.git
+git clone https://github.com/sumandeepak8/mac-setup.git
 
 #moving configuration files to home.
-mv dotfiles/.zshrc ~ 
-mv dotfiles/.vimrc ~ 
+mv mac-setup/.zshrc ~ 
+mv mac-setup/.vimrc ~ 
 
 #deleting dotfiles folder
-rm -rf dotfiles
+rm -rf mac-setup
