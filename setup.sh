@@ -13,7 +13,7 @@ sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/mas
 chsh -s /bin/zsh
 
 #zsh auto suggestions
-brew install auto-suggestions
+brew install zsh-autosuggestions
 
 #zsh tools
 brew install tree
