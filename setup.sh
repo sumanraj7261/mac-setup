@@ -25,20 +25,12 @@ brew install autojump
 #installing node
 brew install node
 
-#node tools
-npm install -g chalk
-npm install -g chai
-npm install -g mocha
-npm install -g nyc 
-npm install -g prettier 
-npm install -g docker
-
-
 #install applications like iterm2, google-chrome, intellij, visual-studio-code, slack 
 brew cask install iterm2
 brew cask install google-chrome
 brew cask install intellij-idea-ce
 brew cask install visual-studio-code
+brew cask install docker
 brew cask install slack
 
 
