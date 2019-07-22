@@ -28,10 +28,13 @@ brew install node
 #install applications like iterm2, google-chrome, intellij, visual-studio-code, slack 
 brew cask install iterm2
 brew cask install google-chrome
+brew cask install firefox
 brew cask install intellij-idea-ce
 brew cask install visual-studio-code
 brew cask install docker
 brew cask install slack
+brew cask install ccmenu
+brew cask install postman
 
 
 #cloning dot files.
