@@ -22,6 +22,20 @@ brew install ack
 brew install bat
 brew install autojump
 
+#build tools
+
+#java 
+brew install java11
+brew install gradle
+
+#haskell and its build tool 
+brew cask install haskell
+brew cask install stack
+
+#clojure
+brew install clojure
+brew cask install leiningen
+
 #installing node
 brew install node
 
