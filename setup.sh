@@ -48,8 +48,10 @@ brew cask install visual-studio-code
 brew cask install docker
 brew cask install slack
 brew cask install ccmenu
+brew cask install flycut
 brew cask install postman
-
+brew cask install google-chat
+brew cask install whatapp
 
 #cloning dot files.
 git clone https://github.com/sumandeepak8/mac-setup.git
