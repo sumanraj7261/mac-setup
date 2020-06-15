@@ -51,7 +51,7 @@ brew cask install ccmenu
 brew cask install flycut
 brew cask install postman
 brew cask install google-chat
-brew cask install whatapp
+brew cask install whatsapp
 
 #cloning dot files.
 git clone https://github.com/sumandeepak8/mac-setup.git
