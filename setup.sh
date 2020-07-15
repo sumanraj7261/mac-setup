@@ -39,7 +39,7 @@ brew cask install leiningen
 #installing node
 brew install node
 
-#install applications like iterm2, google-chrome, intellij, visual-studio-code, slack 
+#install applications like iterm2, google-chrome, intellij, visual-studio-code, slack, sublime-text
 brew cask install iterm2
 brew cask install google-chrome
 brew cask install firefox
@@ -52,6 +52,7 @@ brew cask install flycut
 brew cask install postman
 brew cask install google-chat
 brew cask install whatsapp
+brew cask install sublime-text
 
 #cloning dot files.
 git clone https://github.com/sumandeepak8/mac-setup.git
